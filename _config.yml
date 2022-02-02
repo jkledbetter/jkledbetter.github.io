@@ -1,11 +1,14 @@
 title: Jeffrey Ledbetter    email: jkledbetter6070@gmail.com # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/passport_afghn.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Personal description 
+  <br>Current Masters student in Geography and Environmental Sustainability with a focus in Geographical Information Technology at University of Oklahoma. 
+  Undergraduate studies included Bachelors of Science in Geography and Environmental Sustainablity with a focus in Geographical Information Systems and
+  a Bachelors of Art in Administration of Justice with a Minor in Environmental Science from Southern Illinois University at Carbondale. Father of three boys, 
+  retired police officer and served two years in Afghanistan with the U.S. State Department High Threat Protection details.<br>
+  Professional Software description 
+  <br>ESRI ArcMap, ArcPro, ArcGIS Online, ArcStudio, Collector, GeoApp Studio, Python, RStudio, GitHub, OpenRefine, PostGis, Google Earth Engine, Microsoft Office Pro.<br>
+  <a href="https://www.linkedin.com/in/jeffrey-ledbetter-492740201/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
